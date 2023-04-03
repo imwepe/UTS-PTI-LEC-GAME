@@ -1,0 +1,71 @@
+:root {
+  --bg: #000;
+  --primary: #c9b4af;
+}
+#bg{
+  background-image: url(/img/index-bg.gif);
+}
+
+.avatar {
+  background-color: rgba(240, 234, 173, 0.5); 
+} 
+
+.avatar #logo{
+  background-image: url(/img/index-bg.gif);
+}
+
+.avatar #logo img {
+  width: 10rem;
+  /* justify-content: center; */
+  position: absolute;
+  padding-top: 0.5rem;
+  top: 10%;
+  left: 50%;
+  height: 10rem;
+  transform: translate(-50%, -50%);
+  border-radius: 50rem;
+}
+
+/* #carouselExampleIndicators {
+  margin: auto auto auto auto;
+} */
+
+.input p {
+  margin: auto auto auto auto;
+  text-align: center;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.input .input-column p {
+  margin: auto auto auto auto;
+  text-align: center;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.input .input-column input {
+  display: flex;
+  align-items: center;
+  margin: 0.5rem auto auto auto;
+  font-weight: 500;
+  font-style: italic;
+  background-color: var(--primary);
+  text-align: center;
+}
+
+.input .input-column .tombol {
+  display: flex;
+  margin: 1rem auto auto auto;
+  font-weight: 800;
+  font-size: 1.5em;
+  font-style: italic;
+  background: #fff;
+  transition: background 0.5s;
+}
+.input .input-column .tombol:hover {
+  background: salmon;
+  transform: scale(125%);
+  cursor: pointer;
+  border-radius: 10px;
+}

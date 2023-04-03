@@ -1,0 +1,16 @@
+Anggota Kelompok
+1. Khaleb Andhyka Aprijadi - 00000066721
+2. Edward Ferdinand - 00000066779
+3. Thomas Elvanli - 00000067064
+4. William Purba - 00000066368
+5. Marvel Christopher - 00000067604
+
+Link GitHub :
+
+
+Aturan Game :
+1. User diminta untuk memasukkan nama pet.
+2. Saat memilih avatar, pemain akan diberikan starting status makan, tidur, main, dan obat.
+3. Usahakan jangan sampai salah satu status menyentuh titik 0.
+4. Tekan salah satu tombol untuk melakukan aktivitas.
+5. Aktivitas akan merubah status.
